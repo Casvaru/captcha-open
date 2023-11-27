@@ -1,13 +1,24 @@
 {
   "name": "captcha-open",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "CAPTCHA-OPEN es un paquete de NPM para agregar captcha a tu página de manera sencilla, como visión es agregar varios tipos de captcha que van desde simples a más complejos como puede ser el uso de imágenes y puzzles, hasta el momento esta desarrollado el más sencillo que es el resultado de una operación matemática. ",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "captcha",
+    "captcha-open"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Casvaru/captcha-open/tree/main"
+  },
+  "bugs": {
+    "url": "https://github.com/Casvaru/captcha-open/issues"
+  },
+  "homepage": "https://github.com/Casvaru/captcha-open/blob/main/README.md",
   "author": "casvaru",
   "license": "ISC",
   "devDependencies": {
